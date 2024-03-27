@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "DaxlinePro";
+  src: url("https://db.onlinewebfonts.com/t/1cc3c2141981c96c4d085f98885cd90f.eot");
+  src: url("https://db.onlinewebfonts.com/t/1cc3c2141981c96c4d085f98885cd90f.eot?#iefix")
+      format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/1cc3c2141981c96c4d085f98885cd90f.woff2")
+      format("woff2"),
+    url("https://db.onlinewebfonts.com/t/1cc3c2141981c96c4d085f98885cd90f.woff")
+      format("woff"),
+    url("https://db.onlinewebfonts.com/t/1cc3c2141981c96c4d085f98885cd90f.ttf")
+      format("truetype"),
+    url("https://db.onlinewebfonts.com/t/1cc3c2141981c96c4d085f98885cd90f.svg#DaxlinePro")
+      format("svg");
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
